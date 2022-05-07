@@ -1,11 +1,5 @@
-<<<<<<< HEAD
 baseURL: https://seikir0.github.io/myblog
 languageCode: en-us
 title: My New Hugo Site
 theme: "PaperMod"
-=======
-baseURL: http://example.org/
-languageCode: en-us
-title: My New Hugo Site
-theme: "PaperMod"
->>>>>>> d1088a4e554156bb4ff936352896bdaba9998469
+
